@@ -1,4 +1,4 @@
-// Helper function to replace the inbuild Promise.all Function
+// Helper function to replace the inbuilt Promise.all Function
 
 'use strict';
 
