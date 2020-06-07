@@ -1,6 +1,6 @@
 {
   "name": "multipromiseresolver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Helper function to replace the inbuilt Promise.all Function",
   "main": "index.js",
   "scripts": {

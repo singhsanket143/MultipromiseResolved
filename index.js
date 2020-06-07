@@ -14,7 +14,7 @@ let allPromises = (values) => {
 			// One by one start resolving the promises
 			Promise.resolve(currentPromise).then((result) => {
 				// After resolution store the result in the array
-				results[finished] = result;
+				results[index] = result;
 				finished += 1
 
 				// Check if all the promises have been resolved or not

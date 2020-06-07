@@ -1,7 +1,7 @@
 Helper function to replace the inbuilt Promise.all Function
 
 ## Specification:
-- Preserves Order Of Results with that of the input
+- Preserves Order Of Results 
 - Uses recommended ES6 features
 
 ## Parameters:
